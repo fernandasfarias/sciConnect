@@ -1,6 +1,8 @@
 # 🚀 SciConnect do Dcomp
 ## Plataforma inteligente de Divulgação Científica e Conexão Acadêmica.
 
+<a href="https://sciconnect-ufs-621497178233.us-west1.run.app/">Acesse aqui o site do projeto desenvolvido pelo Google AI Studio.</a>
+
 <img src="https://drive.google.com/uc?export=view&id=163vVbm40JAfsaaW7O2HIdurjXKCDIehs" alt="Imagem">
 
 ## 📖 Sobre o projeto
