@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚀 SciConnect do Dcomp
+## Plataforma inteligente de Divulgação Científica e Conexão Acadêmica.
 
-# Run and deploy your AI Studio app
+<img src="https://drive.google.com/uc?export=view&id=163vVbm40JAfsaaW7O2HIdurjXKCDIehs" alt="Imagem">
 
-This contains everything you need to run your app locally.
+## 📖 Sobre o projeto
+<p>O SciConnect nasceu durante a disciplina de <strong>Teorial Geral dos Sistemas</strong> como uma proposta inovadora para solucionar um problema recorrente no ambiente acadêmico que eu e os meus colegas estamos inseridos: A dificuldade de acesso, divulgação e conexão entre pesquisas, projetos científicos e pesquisadores dentro do Departamento de Computação da Universidade Federal de Sergipe (Dcomp/UFS).</p>
 
-View your app in AI Studio: https://ai.studio/apps/93d2378f-5a44-4129-ab59-f5e288cae1d9
+<p>O projeto foi desenvolvido utilizando a metodologia <strong>Double Diamond</strong>, passando pelas etapas de descoberta, definição do problema, desenvolvimento de uma solução e validação por meio de prototipação.</p>
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+<p>Mais que um trabalho acadêmico, o SciConnect representa uma visão de como a tecnologia e a IA podem fortalecer a pesquisa, inovação e a colaboração científica.</p>
