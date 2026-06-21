@@ -1,0 +1,6 @@
+{
+  "name": "SciConnect",
+  "description": "Plataforma de pesquisa, eventos e extensão do Departamento de Computação (Dcomp) da UFS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
